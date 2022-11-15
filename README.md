@@ -1,3 +1,11 @@
+Some Glimpes of the project
+
+![alt text](https://github.com/its-roshanojha/TextUtil/blob/master/Images/chrome_Pb6uDEh8Lw.png?raw=true)
+
+![alt text](https://github.com/its-roshanojha/TextUtil/blob/master/Images/chrome_RrVkAoeMCH.png?raw=true)
+
+![alt text](https://github.com/its-roshanojha/TextUtil/blob/master/Images/chrome_d57VBouusc.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
